@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/iPhone"
+        android:title="iPhone"
+        />
+    <item
+        android:id="@+id/iPad"
+        android:title="iPad"
+        />
+    <item
+        android:id="@+id/iMac"
+        android:title="iMac"
+        />
+    <item
+        android:id="@+id/airPods"
+        android:title="AirPods"
+        />
+</menu>

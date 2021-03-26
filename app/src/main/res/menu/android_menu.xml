@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/samsungPhone"
+        android:title="Samsung"
+        />
+    <item
+        android:id="@+id/xiaomiPhone"
+        android:title="Xiaomi"
+        />
+    <item
+        android:id="@+id/huaweiPhone"
+        android:title="Huawei"
+        />
+    <item
+        android:id="@+id/mi9Phone"
+        android:title="Mi9"
+        />
+</menu>
